@@ -4,17 +4,17 @@
 ## About Me
 🎓 I am currently a student of NIT, Kurukshetra</br>
 👨‍💻 I like to learn new things pretty much everyday</br>
-💜 I am particulaly interested in competitive coding, web development and arduino.</br>
+💜 I am particulaly interested in competitive coding, verilog and arduino.</br>
 <strong>😉 Wanna do something awesome together, Let's collaborate 🤝</br></strong>
 
-## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<!-- ## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <!--   <img alt="Java" src="https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white"/> -->
-  <img alt="Python" src="https://img.shields.io/badge/python-yellow.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- <img alt="Python" src="https://img.shields.io/badge/python-yellow.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <!--   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-darkblue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300599C.svg?&style=for-the-badge&logo=arduino&color=008184"/>
   
 <!--   <img alt="Flutter" src="https://img.shields.io/badge/flutter-blue.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> -->
