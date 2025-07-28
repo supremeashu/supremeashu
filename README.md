@@ -35,7 +35,7 @@
 <br><strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supremeashu&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supremeashu&theme=radical&hide_border=true"/><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supremeashu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/supremeashu/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supremeashu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supremeashu&label=Profile%20views&color=0e75b6&style=flat" alt="supremeashu" /> </p>
 
