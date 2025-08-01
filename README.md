@@ -32,13 +32,13 @@
 ![Bun](https://img.shields.io/badge/Bun-333333?logo=bun&logoColor=white)
 
 
-<br><strong>📊 My Github Stats :</strong><br><br>
+<!-- <br><strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supremeashu&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supremeashu&theme=radical&hide_border=true"/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supremeashu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supremeashu&label=Profile%20views&color=0e75b6&style=flat" alt="supremeashu" /> </p>
-
+-->
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-mohapatra-159ba8185)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/supremeashu)
